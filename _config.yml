@@ -1,0 +1,6 @@
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-redirect-from
