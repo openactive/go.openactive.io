@@ -1,4 +1,4 @@
 ---
-permalink: /dataset-site/open-data
+permalink: /dataset-site-links/open-data-documentation
 redirect_to: https://developer.openactive.io/publishing-data/data-feeds
 ---
