@@ -1,4 +1,4 @@
-# OpenActive permalinks registry - go.openactive.io
+# OpenActive permalinks registry - permalink.openactive.io
 
 This repository defines permalinks that are used to reference documentation and other content within OpenActive the tooling
 
