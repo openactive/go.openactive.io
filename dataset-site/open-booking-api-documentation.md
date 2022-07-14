@@ -1,4 +1,4 @@
 ---
-permalink: /dataset-site-links/open-booking-api-documentation
+permalink: /dataset-site/open-booking-api-documentation
 redirect_to: https://developer.openactive.io/open-booking-api/
 ---
